@@ -5,13 +5,6 @@ Team Members
 - Jyoti Kumari Sah - 23070122278
 - Sonali Gupta - 23070122266
 
-CA1 Task 3 - Open Source Contribution
-
-This repository contains our contribution for DevOps CA1 Task 3.
-<img width="1887" height="987" alt="image" src="https://github.com/user-attachments/assets/407cbe6b-84bd-4842-b8bb-6c79b4920856" />
-<img width="1887" height="987" alt="image" src="https://github.com/user-attachments/assets/ac2e4e3e-8cfa-4575-9e25-1b79e98adfc9" />
-
-
 The contribution includes:
 
 - Kaggle dataset-based churn prediction
